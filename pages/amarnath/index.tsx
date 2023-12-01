@@ -21,7 +21,7 @@ const index = () => {
                 <p className='text-[20px] lg:text-[32px] text-white font-gotham font-normal leading-[28px] lg:leading-[40px]'>
                     We grind the groats, press the butter, wash the flakes, clean the grain.
                     <br /><br />
-                    "Black Sea Amaranth" is a family business engaged in the cultivation and production of amaranth products in Ukraine.
+                    &quot;Black Sea Amaranth&quot; is a family business engaged in the cultivation and production of amaranth products in Ukraine.
                     <br /><br />
                     We were involved in rebranding, the main goal of which is to introduce and interest the audience in the new brand and to distinguish it from competitors on the store shelf. Each illustration tells a story and invites you to dive into the adventure, and the colors are inspired by the natural shades of amaranth. <br /> <br />
 

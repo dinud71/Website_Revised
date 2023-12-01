@@ -1,3 +1,4 @@
+
 import Image from 'next/image'
 import Clients from '@/public/images/clients.png'
 import Clients_mob from '@/public/images/clients_mob.png'
@@ -16,7 +17,7 @@ const index = () => {
           <h1 className='text-[30px] text-white font-gotham font-semibold lg:hidden'>Elevating <br /> Brand Strategy, <br /> Design, and <br /> Crafting Innovation <br /> Into Success</h1>
           <h1 className='hidden lg:block text-[80px] text-white font-gotham font-semibold leading-[90px]'>Elevating Brand Strategy, <br /> Design, and Crafting Innovation <br /> Into Success</h1>
         </div>
-        <p className='text-[20px] lg:text-[32px] text-white font-gotham font-normal leading-[28px] lg:leading-[40px]'>In 2016, our journey began as a humble design agency. By 2022, we took a significant step forward, incorporating as a private limited company. Today, we stand as a thriving enterprise, having served over 99+ clients and successfully delivered 150+ branding and marketing projects across the globe. In the world of food manufacturing, taste is often impeccable, but brand distinction is frequently overlooked.  Many brand designers lack the specialized expertise to make culinary businesses truly shine. At our core, we exist to defy the ordinary and conquer the competitive landscape. We don't merely replicate others' work and bill for hours; we craft bespoke solutions that come with a premium commitment</p>
+        <p className='text-[20px] lg:text-[32px] text-white font-gotham font-normal leading-[28px] lg:leading-[40px]'>In 2016, our journey began as a humble design agency. By 2022, we took a significant step forward, incorporating as a private limited company. Today, we stand as a thriving enterprise, having served over 99+ clients and successfully delivered 150+ branding and marketing projects across the globe. In the world of food manufacturing, taste is often impeccable, but brand distinction is frequently overlooked.  Many brand designers lack the specialized expertise to make culinary businesses truly shine. At our core, we exist to defy the ordinary and conquer the competitive landscape. We don&quot;t merely replicate others&quot; work and bill for hours; we craft bespoke solutions that come with a premium commitment</p>
       </section>
 
       <section id='services' className='container services pt-[60px] md:pt-60'>
